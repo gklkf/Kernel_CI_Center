@@ -263,7 +263,7 @@
   "mi17_sm8850_stealth": {
     "repo": "MoeclubM/android_kernel_xiaomi_sm8850",
     "defconfig": "gki_defconfig",
-    "localversion_base": "-android16-6-gb1493ec68d4a-abogki514973465-4k",
+    "localversion_base": "-android16-6-g586bfab1b9c5-abogki536749445-4k",                         
     "supported_ksu": [
       "resukisu"
     ],
